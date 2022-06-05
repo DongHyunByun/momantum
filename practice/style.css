@@ -1,0 +1,13 @@
+ body {
+     background-color: beige;
+ }
+
+ /* h1 디폴트색깔 설정 */
+ h1 {
+     color : cornflowerblue; 
+ }
+
+ /* active 클래스인것은 토마토색으로 */
+ .active {
+     color: tomato;
+ }
